@@ -2,6 +2,8 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas na ETEC (1º semestre)
 
+![São Paulo](https://img.shields.io/badge/São_Paulo-SP-blue?logo=google-maps)
+
 ## 🛠️ Tecnologias
 
 <div align="left">
